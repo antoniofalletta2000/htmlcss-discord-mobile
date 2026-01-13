@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
-body {
-    width: 512px;
+body {width: 512px;
+    background-color: rgb(4, 4, 105);
 }
+
