@@ -37,3 +37,15 @@ body {width: 512px;
     border-radius: 10px;
     padding: 10px;
 }
+
+.open_discord {
+font-family: "DM Sans", sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    color:white;
+    max-width: 500px;
+    border: none;
+    background-color: rgb(7, 64, 149);
+    border-radius: 10px;
+    padding: 10px;
+}
