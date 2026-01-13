@@ -24,3 +24,16 @@ body {width: 512px;
     color: white;
     max-width: 500px;
 }
+
+.download {
+    font-family: "DM Sans", sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    color:black;
+    max-width: 500px;
+    border: solid;
+    border-color: white;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
