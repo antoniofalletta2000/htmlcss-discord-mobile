@@ -48,4 +48,35 @@ font-family: "DM Sans", sans-serif;
     background-color: rgb(7, 64, 149);
     border-radius: 10px;
     padding: 10px;
+    margin-top: 15px;
+}
+
+.container{
+     border: none;
+     border-radius: 20px;
+     background-color: blueviolet;
+     margin-top: 50px;
+     padding: 50px;
+}
+  
+
+.first_title {
+     font-family: "Sigmar", sans-serif;
+     color: white;
+     line-height: 1;
+     padding-left: 15px;
+}
+
+.second_p {
+    font-family: "DM Sans", sans-serif;
+    color: white;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+.video_demo {
+    width: 340px;
+    border-radius: 30px;
+    margin-top: 15px;
+
 }
