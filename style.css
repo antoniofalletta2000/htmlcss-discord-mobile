@@ -51,12 +51,15 @@ font-family: "DM Sans", sans-serif;
     margin-top: 15px;
 }
 
-.container{
+.first_card{
      border: none;
      border-radius: 20px;
-     background-color: blueviolet;
-     margin-top: 50px;
+     margin-top: 70px;
      padding: 50px;
+     padding-bottom: 2px;
+     background-image: url(./assets/img/background.png);
+     background-repeat: no-repeat;
+     background-size: cover;
 }
   
 
@@ -78,5 +81,32 @@ font-family: "DM Sans", sans-serif;
     width: 340px;
     border-radius: 30px;
     margin-top: 15px;
+}
 
+.discord_cube {
+    width: 100px;
+    translate: -20% -600%;
+}
+
+.second_card { 
+    border: none;
+     border-radius: 20px;
+     margin-top: 70px;
+     padding: 50px;
+     padding-bottom: 2px;
+     background-image: url(./assets/img/background.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+.video_streamer {
+    width: 340px;
+    border-radius: 30px;
+    margin-top: 15px;
+
+}
+
+.eyes {
+     width: 100px;
+    translate: -20% -600%;
 }
