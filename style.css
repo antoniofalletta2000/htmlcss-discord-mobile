@@ -8,3 +8,19 @@ body {width: 512px;
     background-color: rgb(4, 4, 105);
 }
 
+.group_chat{
+    font-family: "Sigmar", sans-serif;
+    text-align: center;
+    color: white;
+    margin-top: 70px;
+    max-width: 500px;
+    line-height: 1;
+}
+
+.first_p {
+    font-family: "DM Sans", sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    max-width: 500px;
+}
